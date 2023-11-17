@@ -36,7 +36,7 @@
 [linkedin]: (https://www.linkedin.com/in/bogyan)
 
 
-<h2>⚡Codewars </h2>
+<h2> </h2>
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
