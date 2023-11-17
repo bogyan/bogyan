@@ -25,9 +25,10 @@
   - [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-d92527ce-cc03-4d2c-869f-032b131041e8/)
   - [Learn to Code in Python 3: Programming beginner to advanced](https://www.udemy.com/certificate/UC-91086214-68e6-40ab-9831-1b504b7301cd/)
 
-  
-  
 
+<h2>⚡ Codewars </h2>
+ - ![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BogdanYanovich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,8 +36,6 @@
 
 [instagram]: https://www.facebook.com/profile.php?id=100020923567561
 [linkedin]: https://www.linkedin.com/in/bogyan
-
-![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
 
 
 <!--
