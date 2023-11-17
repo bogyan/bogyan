@@ -27,7 +27,7 @@
 
 
 <h2>⚡ Codewars </h2>
- - ![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
   
 <h2> 🤳 Connect with me:</h2>
 
