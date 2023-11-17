@@ -36,6 +36,9 @@
 [instagram]: https://www.facebook.com/profile.php?id=100020923567561
 [linkedin]: https://www.linkedin.com/in/bogyan
 
+![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
