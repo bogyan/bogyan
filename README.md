@@ -5,9 +5,12 @@
 - <b>Python</b>
   - [Python Projects and Exercises](https://github.com/bogyan/py_exercises)
   - [Social Data Science Student Hackathon 2022](https://github.com/bogyan/py_hackathon)
+  - [Data Mining](https://github.com/bogyan/py_exercises)
  
 - <b>R</b>
   - [R Projects and Exercises](https://github.com/bogyan/R)
+  - [Artificial intelligence](https://github.com/bogyan/R)
+  - [Querrying, Data Presentation, Data Visualisation and Reporting](https://github.com/bogyan/R)
   
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/bogyan/power_bi_exercises)
