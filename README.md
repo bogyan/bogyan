@@ -26,7 +26,7 @@
   - [Learn to Code in Python 3: Programming beginner to advanced](https://www.udemy.com/certificate/UC-91086214-68e6-40ab-9831-1b504b7301cd/)
 
 
-<h2>⚡ Codewars </h2>
+<h2>⚡Codewars</h2>
 ![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
   
 <h2> 🤳 Connect with me:</h2>
