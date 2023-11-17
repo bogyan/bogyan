@@ -28,17 +28,6 @@
 
 <h2> 🤳 Connect with me: </h2>
 
-
-[<img align="left" alt="BogdanYanovich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BogdanYanovich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
-
-[instagram]: (https://www.facebook.com/profile.php?id=100020923567561)
-[linkedin]: (https://www.linkedin.com/in/bogyan)
-
-
-<h2>                                                         </h2>
-
-
 ![Codewars](https://github.r2v.ch/codewars?user=Bogdan%20Yanovich&stroke=COLOR)
 
 <!--
