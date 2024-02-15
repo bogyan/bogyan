@@ -24,7 +24,6 @@
 - <b>Certifications</b>
   - [Complete Microsoft SQL Server Database Design Masterclass](https://www.udemy.com/certificate/UC-65684a8d-1c17-4ed6-95a8-30cc80f76d33/)
   - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
-  - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
   - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-0bd99d3e-8754-4d98-8df2-380dc669f6cb/)
   - [From Data to Insights with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/JVTGJ93QPXCR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
   - [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-d92527ce-cc03-4d2c-869f-032b131041e8/)
