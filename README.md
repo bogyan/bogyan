@@ -1,4 +1,8 @@
 <h1>Hi, I'm Bogdan!
+🔭 I’m currently studiyng Advanced Analytics – Big Data at SGH Warsaw School of Economics
+🌱 I’m currently learning Cloud Computing, Quantum Machine Learning and Deep Learning
+📫 How to reach me: yanovich.bog01@gmail.com
+⚡ Fun fact: I play the guitar :)
 
 <h2>👨‍💻 What do I know</h2>
  
@@ -8,7 +12,7 @@
   - [Data Mining](https://github.com/bogyan/Data_Mining)
   - [Data Science in Pyhton](https://github.com/bogyan/Data_Mining)
   - [Statistical Learning Methods](https://github.com/bogyan/Data_Mining)
-  - [Real-time Data Analysis](https://github.com/bogyan/Data_Mining)
+  - [Real-Time Data Analysis](https://github.com/bogyan/Data_Mining)
  
 - <b>R</b>
   - [R Projects and Exercises](https://github.com/bogyan/R)
