@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bogdan!
+<h1>Hi, I'm Bogdan!</h1>
 <b>🔭 I’m currently studiyng Advanced Analytics – Big Data at SGH Warsaw School of Economics</b>
 <b>🌱 I’m currently learning Cloud Computing, Quantum Machine Learning and Deep Learning</b>
 <b>📫 How to reach me: yanovich.bog01@gmail.com</b>
