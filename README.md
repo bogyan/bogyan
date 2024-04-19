@@ -1,8 +1,8 @@
 <h1>Hi, I'm Bogdan!
-🔭 I’m currently studiyng Advanced Analytics – Big Data at SGH Warsaw School of Economics
-🌱 I’m currently learning Cloud Computing, Quantum Machine Learning and Deep Learning
-📫 How to reach me: yanovich.bog01@gmail.com
-⚡ Fun fact: I play the guitar :)
+<b>🔭 I’m currently studiyng Advanced Analytics – Big Data at SGH Warsaw School of Economics</b>
+<b>🌱 I’m currently learning Cloud Computing, Quantum Machine Learning and Deep Learning</b>
+<b>📫 How to reach me: yanovich.bog01@gmail.com</b>
+<b>⚡ Fun fact: I play the guitar :)</b>
 
 <h2>👨‍💻 What do I know</h2>
  
