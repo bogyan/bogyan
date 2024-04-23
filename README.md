@@ -14,8 +14,8 @@
   - [Social Data Science Student Hackathon 2022](https://github.com/bogyan/py_hackathon)
   - [Data Mining](https://github.com/bogyan/Data_Mining)
   - [Data Science in Python](https://github.com/bogyan/DSP)
-  - [Statistical Learning Methods](https://github.com/bogyan/Data_Mining)
-  - [Real-Time Data Analysis](https://github.com/bogyan/Data_Mining)
+  - [Statistical Learning Methods](https://github.com/bogyan/SLM)
+  - [Real-Time Data Analysis](https://github.com/bogyan/RTA)
  
 - <b>R</b>
   - [R Projects and Exercises](https://github.com/bogyan/R)
@@ -24,15 +24,15 @@
 
 - <b>SAS</b>
   - [SAS Projects and Exercises](https://github.com/bogyan/SAS)
-  - [Credit Scoring in SAS](https://github.com/bogyan/SAS)
-  - [Duration Analysis](https://github.com/bogyan/SAS)
+  - [Credit Scoring in SAS](https://github.com/bogyan/CS)
+  - [Duration Analysis](https://github.com/bogyan/DA)
   
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/bogyan/power_bi_exercises)
  
 - <b>SQL</b>
   - [SQL Exercises](https://github.com/bogyan/sql_exercises)
-  - [PL/SQL Exercises](https://github.com/bogyan/Data_Mining)
+  - [PL/SQL Exercises](https://github.com/bogyan/PL.SQL)
 
 - <b>Certifications</b>
   - [Complete Microsoft SQL Server Database Design Masterclass](https://www.udemy.com/certificate/UC-65684a8d-1c17-4ed6-95a8-30cc80f76d33/)
