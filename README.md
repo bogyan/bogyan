@@ -13,7 +13,7 @@
   - [Python Projects and Exercises](https://github.com/bogyan/py_exercises)
   - [Social Data Science Student Hackathon 2022](https://github.com/bogyan/py_hackathon)
   - [Data Mining](https://github.com/bogyan/Data_Mining)
-  - [Data Science in Pyhton](https://github.com/bogyan/DSP)
+  - [Data Science in Python](https://github.com/bogyan/DSP)
   - [Statistical Learning Methods](https://github.com/bogyan/Data_Mining)
   - [Real-Time Data Analysis](https://github.com/bogyan/Data_Mining)
  
