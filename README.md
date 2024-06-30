@@ -30,7 +30,7 @@
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/bogyan/power_bi_exercises)
  
-- <b>SQL</b>
+- <b>SQL & PL/SQL</b>
   - [SQL Exercises](https://github.com/bogyan/sql_exercises)
   - [PL/SQL Exercises](https://github.com/bogyan/PL.SQL)
 
