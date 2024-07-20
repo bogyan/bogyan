@@ -5,7 +5,7 @@
 
 📫 <b> How to reach me: yanovich.bog01@gmail.com </b>
 
-⚡ <b> Fun fact: I enjoy playing chess and the guitar :) </b>
+⚡ <b> Fun fact: I play chess and the guitar :) </b>
 
 <h2>👨‍💻 What do I know</h2>
  
