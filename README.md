@@ -1,6 +1,8 @@
 <h1>Hi, I'm Bogdan!</h1>
 🔭 <b> I’m studying Advanced Analytics – Big Data at SGH Warsaw School of Economics </b>
+
 ✨ <b> I’m currently working as an IT Operations Trainee at Procter & Gamble </b>
+
 🌱 <b> I’m learning Cloud Computing, Deep Learning and Site Reliability Engineering </b>
 
 📫 <b> How to reach me: yanovich.bog01@gmail.com </b>
