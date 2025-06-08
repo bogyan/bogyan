@@ -10,6 +10,9 @@
 ⚡ <b> Fun fact: I play chess and the guitar :) </b>
 
 <h2>👨‍💻 What do I know</h2>
+
+- <b>Pet Projects</b>
+  - [Warszawa API]
  
 - <b>Python</b>
   - [Python Projects and Exercises](https://github.com/bogyan/py_exercises)
