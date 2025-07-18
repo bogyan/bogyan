@@ -44,7 +44,7 @@
   - [PL/SQL Exercises](https://github.com/bogyan/PL.SQL)
 
 - <b>Certifications</b>
-  - [Microsoft Azure Fundamentals (AZ-900)]
+  - [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
   - [Complete Microsoft SQL Server Database Design Masterclass](https://www.udemy.com/certificate/UC-65684a8d-1c17-4ed6-95a8-30cc80f76d33/)
   - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
   - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-0bd99d3e-8754-4d98-8df2-380dc669f6cb/)
