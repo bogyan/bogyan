@@ -12,7 +12,7 @@
 <h2>👨‍💻 What do I know</h2>
 
 - <b>Pet Projects</b>
-  - [FromAPItoGrafana (Rest Api, Python, PostgreSQL, Grafana)]
+  - [FromAPItoGrafana (Rest Api, Python, PostgreSQL, Grafana)](https://github.com/bogyan/FromAPItoGrafana)
   - [... (Azure Fabrics)]
   - [... (Databricks, PySpark)]
   - [... (Apache Hadoop)]
@@ -20,7 +20,7 @@
 - <b>Python</b>
   - [Python Projects and Exercises](https://github.com/bogyan/py_exercises)
   - [Social Data Science Student Hackathon 2022](https://github.com/bogyan/py_hackathon)
-  - [Mastercard & SKN Data Science Hackathon 2025]
+  - [Mastercard & SKN Data Science Hackathon 2025](https://github.com/bogyan/Hack2025)
   - [Data Mining](https://github.com/bogyan/Data_Mining)
   - [Data Science in Python](https://github.com/bogyan/DSP)
   - [Statistical Learning Methods](https://github.com/bogyan/SLM)
