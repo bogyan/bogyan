@@ -12,11 +12,15 @@
 <h2>👨‍💻 What do I know</h2>
 
 - <b>Pet Projects</b>
-  - [Warszawa API]
+  - [FromAPItoGrafana (Rest Api, Python, PostgreSQL, Grafana)]
+  - [... (Azure Fabrics)]
+  - [... (Databricks, PySpark)]
+  - [... (Apache Hadoop)]
  
 - <b>Python</b>
   - [Python Projects and Exercises](https://github.com/bogyan/py_exercises)
   - [Social Data Science Student Hackathon 2022](https://github.com/bogyan/py_hackathon)
+  - [Mastercard & SKN Data Science Hackathon 2025]
   - [Data Mining](https://github.com/bogyan/Data_Mining)
   - [Data Science in Python](https://github.com/bogyan/DSP)
   - [Statistical Learning Methods](https://github.com/bogyan/SLM)
@@ -40,6 +44,7 @@
   - [PL/SQL Exercises](https://github.com/bogyan/PL.SQL)
 
 - <b>Certifications</b>
+  - [Microsoft Azure Fundamentals (AZ-900)]
   - [Complete Microsoft SQL Server Database Design Masterclass](https://www.udemy.com/certificate/UC-65684a8d-1c17-4ed6-95a8-30cc80f76d33/)
   - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-f4d1506f-7174-4e47-ba76-2e18f0b18088/)
   - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/certificate/UC-0bd99d3e-8754-4d98-8df2-380dc669f6cb/)
