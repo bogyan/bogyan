@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bogdan!</h1>
 🔭 <b> I’m studying Advanced Analytics – Big Data at SGH Warsaw School of Economics </b>
 
-✨ <b> I’m currently working as an IT Operations Trainee at Procter & Gamble </b>
+✨ <b> I’m currently working as an Site Reliability Engineer at Procter & Gamble </b>
 
 🌱 <b> I’m learning Cloud Computing, Deep Learning and Site Reliability Engineering </b>
 
@@ -13,9 +13,6 @@
 
 - <b>Pet Projects</b>
   - [FromAPItoGrafana (Rest Api, Python, PostgreSQL, Grafana)](https://github.com/bogyan/FromAPItoGrafana)
-  - [... (Azure Fabrics)]
-  - [... (Databricks, PySpark)]
-  - [... (Apache Hadoop)]
  
 - <b>Python</b>
   - [Python Projects and Exercises](https://github.com/bogyan/py_exercises)
